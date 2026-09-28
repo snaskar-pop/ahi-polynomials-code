@@ -1,0 +1,208 @@
+case,method,status,total,solver,K,exp,theta,seed
+"E1: AHI n=4, deg=16",Level B,"OK",1.649592,0.0052981,11,E1,1,NaN
+"E1: AHI n=4, deg=16",SOS,"OK",0.5142387,0.0038009,13,E1,1,NaN
+"E1: AHI n=4, deg=16",Sparse SOS,"OK",0.2605513,0.0032418,13,E1,1,NaN
+"E1: AHI n=4, deg=16",DSOS red.,"OK",0.2856723,0.0059522,13,E1,1,NaN
+"E1: AHI n=4, deg=16",DSOS full,"OK",0.9443703,0.7416326,165,E1,1,NaN
+"E1: AHI n=4, deg=24",Level B,"OK",0.2356031,0.0041004,13,E1,1,NaN
+"E1: AHI n=4, deg=24",SOS,"OK",0.2960512,0.0055922,43,E1,1,NaN
+"E1: AHI n=4, deg=24",Sparse SOS,"OK",0.290398,0.0058935,43,E1,1,NaN
+"E1: AHI n=4, deg=24",DSOS red.,"OK",0.2129002,0.0427558,43,E1,1,NaN
+"E1: AHI n=4, deg=24",DSOS full,"skipped (K=455)",NaN,NaN,455,E1,1,NaN
+"E1: AHI n=6, deg=24",Level B,"OK",0.2688763,0.0145088,31,E1,1,NaN
+"E1: AHI n=6, deg=24",SOS,"OK",0.5373258,0.014079,141,E1,1,NaN
+"E1: AHI n=6, deg=24",Sparse SOS,"OK",0.4070633,0.0142845,141,E1,1,NaN
+"E1: AHI n=6, deg=24",DSOS red.,"OK",0.8046143,0.619181,141,E1,1,NaN
+"E1: AHI n=6, deg=24",DSOS full,"skipped (K=6188)",NaN,NaN,6188,E1,1,NaN
+"E1: AHI n=7, deg=28",Level B,"OK",0.263846,0.0172779,33,E1,1,NaN
+"E1: AHI n=7, deg=28",SOS,"OK",0.3338805,0.0157566,105,E1,1,NaN
+"E1: AHI n=7, deg=28",Sparse SOS,"OK",0.3279164,0.0157816,105,E1,1,NaN
+"E1: AHI n=7, deg=28",DSOS red.,"OK",0.4912982,0.316656,105,E1,1,NaN
+"E1: AHI n=7, deg=28",DSOS full,"skipped (K=38760)",NaN,NaN,38760,E1,1,NaN
+"E1: AHI n=8, deg=32",Level B,"OK",0.4033241,0.0891391,57,E1,1,NaN
+"E1: AHI n=8, deg=32",SOS,"OK",13.6501588,3.0330534,2495,E1,1,NaN
+"E1: AHI n=8, deg=32",Sparse SOS,"OK",14.035196,2.9654442,2495,E1,1,NaN
+"E1: AHI n=8, deg=32",DSOS red.,"skipped (K=2495)",NaN,NaN,NaN,E1,1,NaN
+"E1: AHI n=8, deg=32",DSOS full,"skipped (K=245157)",NaN,NaN,245157,E1,1,NaN
+"E1: AHI n=5, deg=30",Level B,"OK",0.2749476,0.005845,17,E1,1,NaN
+"E1: AHI n=5, deg=30",SOS,"OK",0.3416166,0.0086185,71,E1,1,NaN
+"E1: AHI n=5, deg=30",Sparse SOS,"OK",0.2994632,0.0086775,71,E1,1,NaN
+"E1: AHI n=5, deg=30",DSOS red.,"OK",0.2682054,0.1132804,71,E1,1,NaN
+"E1: AHI n=5, deg=30",DSOS full,"skipped (K=3876)",NaN,NaN,3876,E1,1,NaN
+"E1: AHI n=6, deg=36",Level B,"OK",0.2625802,0.0140128,31,E1,1,NaN
+"E1: AHI n=6, deg=36",SOS,"OK",0.4134706,0.0248472,201,E1,1,NaN
+"E1: AHI n=6, deg=36",Sparse SOS,"OK",0.4408308,0.0251634,201,E1,1,NaN
+"E1: AHI n=6, deg=36",DSOS red.,"OK",2.0148946,1.8099795,201,E1,1,NaN
+"E1: AHI n=6, deg=36",DSOS full,"skipped (K=33649)",NaN,NaN,33649,E1,1,NaN
+"E1: AHI n=4, deg=40",Level B,"OK",0.2446909,0.0033564,11,E1,1,NaN
+"E1: AHI n=4, deg=40",SOS,"OK",0.2691414,0.0035831,37,E1,1,NaN
+"E1: AHI n=4, deg=40",Sparse SOS,"OK",0.2784344,0.0046892,37,E1,1,NaN
+"E1: AHI n=4, deg=40",DSOS red.,"OK",0.1868384,0.0285577,37,E1,1,NaN
+"E1: AHI n=4, deg=40",DSOS full,"skipped (K=1771)",NaN,NaN,1771,E1,1,NaN
+"E1: AHI n=10, deg=40",Level B,"OK",1.0272507,0.5301283,91,E1,1,NaN
+"E1: AHI n=10, deg=40",SOS,"not attempted (guard / tryGeneric=0)",NaN,NaN,NaN,E1,1,NaN
+"E1: AHI n=10, deg=40",Sparse SOS,"not attempted (guard / tryGeneric=0)",NaN,NaN,NaN,E1,1,NaN
+"E1: AHI n=10, deg=40",DSOS red.,"not attempted (guard / tryGeneric=0)",NaN,NaN,NaN,E1,1,NaN
+"E1: AHI n=10, deg=40",DSOS full,"not attempted (guard / tryGeneric=0)",NaN,NaN,NaN,E1,1,NaN
+"E3: N=4 m=3 ds=2 k=2 theta=0.00 seed=1",Level B,"OK",0.4799061,0.0057525,7,E3,0,1
+"E3: N=4 m=3 ds=2 k=2 theta=0.00 seed=1",SOS+LevelA,"OK",0.3107546,0.012454,33,E3,0,1
+"E3: N=4 m=3 ds=2 k=2 theta=0.00 seed=1",SOS,"OK",0.2877489,0.0048153,37,E3,0,1
+"E3: N=4 m=3 ds=2 k=2 theta=0.00 seed=1",Sparse SOS,"OK",0.2687448,0.0047915,37,E3,0,1
+"E3: N=4 m=3 ds=2 k=2 theta=0.00 seed=1",DSOS red.,"OK",0.1900022,0.0324173,37,E3,0,1
+"E3: N=4 m=3 ds=2 k=2 theta=0.00 seed=1",DSOS full,"OK",0.3677443,0.2035194,84,E3,0,1
+"E3: N=4 m=3 ds=2 k=2 theta=0.00 seed=2",Level B,"OK",0.4736666,0.0059393,7,E3,0,2
+"E3: N=4 m=3 ds=2 k=2 theta=0.00 seed=2",SOS+LevelA,"OK",0.2661909,0.004413,19,E3,0,2
+"E3: N=4 m=3 ds=2 k=2 theta=0.00 seed=2",SOS,"OK",0.2588691,0.0038949,19,E3,0,2
+"E3: N=4 m=3 ds=2 k=2 theta=0.00 seed=2",Sparse SOS,"OK",0.2474581,0.0030932,19,E3,0,2
+"E3: N=4 m=3 ds=2 k=2 theta=0.00 seed=2",DSOS red.,"OK",0.1633761,0.0083658,19,E3,0,2
+"E3: N=4 m=3 ds=2 k=2 theta=0.00 seed=2",DSOS full,"OK",0.3273448,0.1645247,84,E3,0,2
+"E3: N=4 m=3 ds=2 k=2 theta=0.00 seed=3",Level B,"OK",0.4596868,0.0062899,7,E3,0,3
+"E3: N=4 m=3 ds=2 k=2 theta=0.00 seed=3",SOS+LevelA,"OK",0.2590205,0.0050851,19,E3,0,3
+"E3: N=4 m=3 ds=2 k=2 theta=0.00 seed=3",SOS,"OK",0.2438605,0.0037378,19,E3,0,3
+"E3: N=4 m=3 ds=2 k=2 theta=0.00 seed=3",Sparse SOS,"OK",0.2791657,0.0259299,19,E3,0,3
+"E3: N=4 m=3 ds=2 k=2 theta=0.00 seed=3",DSOS red.,"OK",0.1645726,0.0091907,19,E3,0,3
+"E3: N=4 m=3 ds=2 k=2 theta=0.00 seed=3",DSOS full,"OK",0.3371625,0.1784916,84,E3,0,3
+"E3: N=4 m=3 ds=2 k=2 theta=0.50 seed=1",Level B,"OK",0.4653807,0.0059338,7,E3,0.5,1
+"E3: N=4 m=3 ds=2 k=2 theta=0.50 seed=1",SOS+LevelA,"OK",0.3030748,0.0108321,33,E3,0.5,1
+"E3: N=4 m=3 ds=2 k=2 theta=0.50 seed=1",SOS,"OK",0.2725322,0.0045972,37,E3,0.5,1
+"E3: N=4 m=3 ds=2 k=2 theta=0.50 seed=1",Sparse SOS,"OK",0.2724576,0.0045342,37,E3,0.5,1
+"E3: N=4 m=3 ds=2 k=2 theta=0.50 seed=1",DSOS red.,"OK",0.1851527,0.0304281,37,E3,0.5,1
+"E3: N=4 m=3 ds=2 k=2 theta=0.50 seed=1",DSOS full,"OK",0.3421659,0.177213,84,E3,0.5,1
+"E3: N=4 m=3 ds=2 k=2 theta=0.50 seed=2",Level B,"OK",0.4591408,0.0054032,7,E3,0.5,2
+"E3: N=4 m=3 ds=2 k=2 theta=0.50 seed=2",SOS+LevelA,"OK",0.3198117,0.0109881,33,E3,0.5,2
+"E3: N=4 m=3 ds=2 k=2 theta=0.50 seed=2",SOS,"OK",0.2630469,0.004629,37,E3,0.5,2
+"E3: N=4 m=3 ds=2 k=2 theta=0.50 seed=2",Sparse SOS,"OK",0.2651573,0.0057945,37,E3,0.5,2
+"E3: N=4 m=3 ds=2 k=2 theta=0.50 seed=2",DSOS red.,"OK",0.1863933,0.0305932,37,E3,0.5,2
+"E3: N=4 m=3 ds=2 k=2 theta=0.50 seed=2",DSOS full,"OK",0.3515724,0.1875577,84,E3,0.5,2
+"E3: N=4 m=3 ds=2 k=2 theta=0.50 seed=3",Level B,"OK",0.4759211,0.0053586,7,E3,0.5,3
+"E3: N=4 m=3 ds=2 k=2 theta=0.50 seed=3",SOS+LevelA,"OK",0.3048771,0.0148954,33,E3,0.5,3
+"E3: N=4 m=3 ds=2 k=2 theta=0.50 seed=3",SOS,"OK",0.2699815,0.0050709,37,E3,0.5,3
+"E3: N=4 m=3 ds=2 k=2 theta=0.50 seed=3",Sparse SOS,"OK",0.2636613,0.0042964,37,E3,0.5,3
+"E3: N=4 m=3 ds=2 k=2 theta=0.50 seed=3",DSOS red.,"OK",0.1888626,0.0351099,37,E3,0.5,3
+"E3: N=4 m=3 ds=2 k=2 theta=0.50 seed=3",DSOS full,"OK",0.3792,0.2103985,84,E3,0.5,3
+"E3: N=4 m=3 ds=2 k=2 theta=1.00 seed=1",Level B,"OK",0.4687386,0.0061322,7,E3,1,1
+"E3: N=4 m=3 ds=2 k=2 theta=1.00 seed=1",SOS+LevelA,"OK",0.3090472,0.018221,33,E3,1,1
+"E3: N=4 m=3 ds=2 k=2 theta=1.00 seed=1",SOS,"OK",0.2718773,0.0058077,37,E3,1,1
+"E3: N=4 m=3 ds=2 k=2 theta=1.00 seed=1",Sparse SOS,"OK",0.2666664,0.0058809,37,E3,1,1
+"E3: N=4 m=3 ds=2 k=2 theta=1.00 seed=1",DSOS red.,"no cert: Infeasible problem (<a href=""yalmip.github.io/debugginginfeasible"">learn to debug</a>) (MOSEK-LP/QP)",0.1809308,0.0264648,37,E3,1,1
+"E3: N=4 m=3 ds=2 k=2 theta=1.00 seed=1",DSOS full,"no cert: Infeasible problem (<a href=""yalmip.github.io/debugginginfeasible"">learn to debug</a>) (MOSEK-LP/QP)",0.2948828,0.135991,84,E3,1,1
+"E3: N=4 m=3 ds=2 k=2 theta=1.00 seed=2",Level B,"OK",0.4690786,0.0054608,7,E3,1,2
+"E3: N=4 m=3 ds=2 k=2 theta=1.00 seed=2",SOS+LevelA,"OK",0.3180457,0.0190151,33,E3,1,2
+"E3: N=4 m=3 ds=2 k=2 theta=1.00 seed=2",SOS,"OK",0.2668016,0.0047607,37,E3,1,2
+"E3: N=4 m=3 ds=2 k=2 theta=1.00 seed=2",Sparse SOS,"OK",0.2673362,0.0053985,37,E3,1,2
+"E3: N=4 m=3 ds=2 k=2 theta=1.00 seed=2",DSOS red.,"no cert: Infeasible problem (<a href=""yalmip.github.io/debugginginfeasible"">learn to debug</a>) (MOSEK-LP/QP)",0.1797533,0.0258703,37,E3,1,2
+"E3: N=4 m=3 ds=2 k=2 theta=1.00 seed=2",DSOS full,"no cert: Infeasible problem (<a href=""yalmip.github.io/debugginginfeasible"">learn to debug</a>) (MOSEK-LP/QP)",0.3040211,0.1418622,84,E3,1,2
+"E3: N=4 m=3 ds=2 k=2 theta=1.00 seed=3",Level B,"OK",0.4699217,0.0061979,7,E3,1,3
+"E3: N=4 m=3 ds=2 k=2 theta=1.00 seed=3",SOS+LevelA,"OK",0.3120905,0.0193805,33,E3,1,3
+"E3: N=4 m=3 ds=2 k=2 theta=1.00 seed=3",SOS,"OK",0.2684752,0.0045785,37,E3,1,3
+"E3: N=4 m=3 ds=2 k=2 theta=1.00 seed=3",Sparse SOS,"OK",0.2721348,0.0072735,37,E3,1,3
+"E3: N=4 m=3 ds=2 k=2 theta=1.00 seed=3",DSOS red.,"no cert: Infeasible problem (<a href=""yalmip.github.io/debugginginfeasible"">learn to debug</a>) (MOSEK-LP/QP)",0.1921492,0.0280742,37,E3,1,3
+"E3: N=4 m=3 ds=2 k=2 theta=1.00 seed=3",DSOS full,"no cert: Infeasible problem (<a href=""yalmip.github.io/debugginginfeasible"">learn to debug</a>) (MOSEK-LP/QP)",0.3038735,0.1422278,84,E3,1,3
+"E3: N=5 m=4 ds=2 k=2 theta=0.00 seed=1",Level B,"OK",0.4877456,0.0072199,13,E3,0,1
+"E3: N=5 m=4 ds=2 k=2 theta=0.00 seed=1",SOS+LevelA,"OK",0.6870532,0.1392865,93,E3,0,1
+"E3: N=5 m=4 ds=2 k=2 theta=0.00 seed=1",SOS,"OK",0.3580685,0.0252604,159,E3,0,1
+"E3: N=5 m=4 ds=2 k=2 theta=0.00 seed=1",Sparse SOS,"OK",0.3556149,0.0256574,159,E3,0,1
+"E3: N=5 m=4 ds=2 k=2 theta=0.00 seed=1",DSOS red.,"OK",1.021957,0.8389655,159,E3,0,1
+"E3: N=5 m=4 ds=2 k=2 theta=0.00 seed=1",DSOS full,"skipped (K=495)",NaN,NaN,495,E3,0,1
+"E3: N=5 m=4 ds=2 k=2 theta=0.00 seed=2",Level B,"OK",0.4632215,0.0066439,13,E3,0,2
+"E3: N=5 m=4 ds=2 k=2 theta=0.00 seed=2",SOS+LevelA,"OK",0.6535466,0.1178997,93,E3,0,2
+"E3: N=5 m=4 ds=2 k=2 theta=0.00 seed=2",SOS,"OK",0.351514,0.0237059,159,E3,0,2
+"E3: N=5 m=4 ds=2 k=2 theta=0.00 seed=2",Sparse SOS,"OK",0.3538247,0.0235985,159,E3,0,2
+"E3: N=5 m=4 ds=2 k=2 theta=0.00 seed=2",DSOS red.,"OK",0.9188243,0.7341019,159,E3,0,2
+"E3: N=5 m=4 ds=2 k=2 theta=0.00 seed=2",DSOS full,"skipped (K=495)",NaN,NaN,495,E3,0,2
+"E3: N=5 m=4 ds=2 k=2 theta=0.00 seed=3",Level B,"OK",0.4735873,0.0063855,13,E3,0,3
+"E3: N=5 m=4 ds=2 k=2 theta=0.00 seed=3",SOS+LevelA,"OK",0.6752221,0.1256612,93,E3,0,3
+"E3: N=5 m=4 ds=2 k=2 theta=0.00 seed=3",SOS,"OK",0.3520937,0.0243424,159,E3,0,3
+"E3: N=5 m=4 ds=2 k=2 theta=0.00 seed=3",Sparse SOS,"OK",0.3551929,0.0233745,159,E3,0,3
+"E3: N=5 m=4 ds=2 k=2 theta=0.00 seed=3",DSOS red.,"OK",1.0688444,0.8803563,159,E3,0,3
+"E3: N=5 m=4 ds=2 k=2 theta=0.00 seed=3",DSOS full,"skipped (K=495)",NaN,NaN,495,E3,0,3
+"E3: N=5 m=4 ds=2 k=2 theta=0.50 seed=1",Level B,"OK",0.4796692,0.0064879,13,E3,0.5,1
+"E3: N=5 m=4 ds=2 k=2 theta=0.50 seed=1",SOS+LevelA,"OK",0.6850673,0.1423256,93,E3,0.5,1
+"E3: N=5 m=4 ds=2 k=2 theta=0.50 seed=1",SOS,"OK",0.3483433,0.0229074,159,E3,0.5,1
+"E3: N=5 m=4 ds=2 k=2 theta=0.50 seed=1",Sparse SOS,"OK",0.3531283,0.024048,159,E3,0.5,1
+"E3: N=5 m=4 ds=2 k=2 theta=0.50 seed=1",DSOS red.,"OK",1.0249422,0.8340894,159,E3,0.5,1
+"E3: N=5 m=4 ds=2 k=2 theta=0.50 seed=1",DSOS full,"skipped (K=495)",NaN,NaN,495,E3,0.5,1
+"E3: N=5 m=4 ds=2 k=2 theta=0.50 seed=2",Level B,"OK",0.4825372,0.0067133,13,E3,0.5,2
+"E3: N=5 m=4 ds=2 k=2 theta=0.50 seed=2",SOS+LevelA,"OK",0.6655987,0.1199727,93,E3,0.5,2
+"E3: N=5 m=4 ds=2 k=2 theta=0.50 seed=2",SOS,"OK",0.3556778,0.024634,159,E3,0.5,2
+"E3: N=5 m=4 ds=2 k=2 theta=0.50 seed=2",Sparse SOS,"OK",0.3608552,0.024347,159,E3,0.5,2
+"E3: N=5 m=4 ds=2 k=2 theta=0.50 seed=2",DSOS red.,"OK",1.0535933,0.8656908,159,E3,0.5,2
+"E3: N=5 m=4 ds=2 k=2 theta=0.50 seed=2",DSOS full,"skipped (K=495)",NaN,NaN,495,E3,0.5,2
+"E3: N=5 m=4 ds=2 k=2 theta=0.50 seed=3",Level B,"OK",0.4706735,0.0070879,13,E3,0.5,3
+"E3: N=5 m=4 ds=2 k=2 theta=0.50 seed=3",SOS+LevelA,"OK",0.6794987,0.1347485,93,E3,0.5,3
+"E3: N=5 m=4 ds=2 k=2 theta=0.50 seed=3",SOS,"OK",0.3731779,0.0245477,159,E3,0.5,3
+"E3: N=5 m=4 ds=2 k=2 theta=0.50 seed=3",Sparse SOS,"OK",0.3483461,0.0228028,159,E3,0.5,3
+"E3: N=5 m=4 ds=2 k=2 theta=0.50 seed=3",DSOS red.,"OK",1.0261675,0.8432462,159,E3,0.5,3
+"E3: N=5 m=4 ds=2 k=2 theta=0.50 seed=3",DSOS full,"skipped (K=495)",NaN,NaN,495,E3,0.5,3
+"E3: N=5 m=4 ds=2 k=2 theta=1.00 seed=1",Level B,"OK",0.4890707,0.0074696,13,E3,1,1
+"E3: N=5 m=4 ds=2 k=2 theta=1.00 seed=1",SOS+LevelA,"OK",0.7985953,0.2543657,93,E3,1,1
+"E3: N=5 m=4 ds=2 k=2 theta=1.00 seed=1",SOS,"OK",0.3507029,0.0267066,159,E3,1,1
+"E3: N=5 m=4 ds=2 k=2 theta=1.00 seed=1",Sparse SOS,"OK",0.3600227,0.0252029,159,E3,1,1
+"E3: N=5 m=4 ds=2 k=2 theta=1.00 seed=1",DSOS red.,"no cert: Infeasible problem (<a href=""yalmip.github.io/debugginginfeasible"">learn to debug</a>) (MOSEK-LP/QP)",0.9159259,0.7365043,159,E3,1,1
+"E3: N=5 m=4 ds=2 k=2 theta=1.00 seed=1",DSOS full,"skipped (K=495)",NaN,NaN,495,E3,1,1
+"E3: N=5 m=4 ds=2 k=2 theta=1.00 seed=2",Level B,"OK",0.4823895,0.0065278,13,E3,1,2
+"E3: N=5 m=4 ds=2 k=2 theta=1.00 seed=2",SOS+LevelA,"OK",0.7904242,0.2284221,93,E3,1,2
+"E3: N=5 m=4 ds=2 k=2 theta=1.00 seed=2",SOS,"OK",0.3578312,0.0259205,159,E3,1,2
+"E3: N=5 m=4 ds=2 k=2 theta=1.00 seed=2",Sparse SOS,"OK",0.3572749,0.0310015,159,E3,1,2
+"E3: N=5 m=4 ds=2 k=2 theta=1.00 seed=2",DSOS red.,"no cert: Infeasible problem (<a href=""yalmip.github.io/debugginginfeasible"">learn to debug</a>) (MOSEK-LP/QP)",0.9648655,0.7849993,159,E3,1,2
+"E3: N=5 m=4 ds=2 k=2 theta=1.00 seed=2",DSOS full,"skipped (K=495)",NaN,NaN,495,E3,1,2
+"E3: N=5 m=4 ds=2 k=2 theta=1.00 seed=3",Level B,"OK",0.4824343,0.0059987,13,E3,1,3
+"E3: N=5 m=4 ds=2 k=2 theta=1.00 seed=3",SOS+LevelA,"OK",0.4004295,0.0511312,55,E3,1,3
+"E3: N=5 m=4 ds=2 k=2 theta=1.00 seed=3",SOS,"OK",0.3196838,0.0133378,85,E3,1,3
+"E3: N=5 m=4 ds=2 k=2 theta=1.00 seed=3",Sparse SOS,"OK",0.2852773,0.014023,85,E3,1,3
+"E3: N=5 m=4 ds=2 k=2 theta=1.00 seed=3",DSOS red.,"no cert: Infeasible problem (<a href=""yalmip.github.io/debugginginfeasible"">learn to debug</a>) (MOSEK-LP/QP)",0.3074217,0.1485552,85,E3,1,3
+"E3: N=5 m=4 ds=2 k=2 theta=1.00 seed=3",DSOS full,"skipped (K=495)",NaN,NaN,495,E3,1,3
+"E3: N=6 m=4 ds=2 k=2 theta=0.00 seed=1",Level B,"OK",0.4673979,0.0075063,13,E3,0,1
+"E3: N=6 m=4 ds=2 k=2 theta=0.00 seed=1",SOS+LevelA,"OK",0.675878,0.1318979,93,E3,0,1
+"E3: N=6 m=4 ds=2 k=2 theta=0.00 seed=1",SOS,"OK",0.3724982,0.0242892,159,E3,0,1
+"E3: N=6 m=4 ds=2 k=2 theta=0.00 seed=1",Sparse SOS,"OK",0.351089,0.0231199,159,E3,0,1
+"E3: N=6 m=4 ds=2 k=2 theta=0.00 seed=1",DSOS red.,"OK",0.9100968,0.7285642,159,E3,0,1
+"E3: N=6 m=4 ds=2 k=2 theta=0.00 seed=1",DSOS full,"skipped (K=1287)",NaN,NaN,1287,E3,0,1
+"E3: N=6 m=4 ds=2 k=2 theta=0.00 seed=2",Level B,"OK",0.5116175,0.0062508,13,E3,0,2
+"E3: N=6 m=4 ds=2 k=2 theta=0.00 seed=2",SOS+LevelA,"OK",1.5443405,0.593741,133,E3,0,2
+"E3: N=6 m=4 ds=2 k=2 theta=0.00 seed=2",SOS,"OK",0.5746336,0.0582291,301,E3,0,2
+"E3: N=6 m=4 ds=2 k=2 theta=0.00 seed=2",Sparse SOS,"OK",0.5859232,0.0593407,301,E3,0,2
+"E3: N=6 m=4 ds=2 k=2 theta=0.00 seed=2",DSOS red.,"OK",4.0191217,3.7129991,301,E3,0,2
+"E3: N=6 m=4 ds=2 k=2 theta=0.00 seed=2",DSOS full,"skipped (K=1287)",NaN,NaN,1287,E3,0,2
+"E3: N=6 m=4 ds=2 k=2 theta=0.00 seed=3",Level B,"OK",0.4796389,0.0068164,13,E3,0,3
+"E3: N=6 m=4 ds=2 k=2 theta=0.00 seed=3",SOS+LevelA,"OK",1.3651834,0.4586666,133,E3,0,3
+"E3: N=6 m=4 ds=2 k=2 theta=0.00 seed=3",SOS,"OK",0.5227492,0.0548133,301,E3,0,3
+"E3: N=6 m=4 ds=2 k=2 theta=0.00 seed=3",Sparse SOS,"OK",0.5134112,0.0474675,301,E3,0,3
+"E3: N=6 m=4 ds=2 k=2 theta=0.00 seed=3",DSOS red.,"OK",3.6480635,3.3791486,301,E3,0,3
+"E3: N=6 m=4 ds=2 k=2 theta=0.00 seed=3",DSOS full,"skipped (K=1287)",NaN,NaN,1287,E3,0,3
+"E3: N=6 m=4 ds=2 k=2 theta=0.50 seed=1",Level B,"OK",0.4618985,0.0065008,13,E3,0.5,1
+"E3: N=6 m=4 ds=2 k=2 theta=0.50 seed=1",SOS+LevelA,"OK",1.359649,0.4596212,133,E3,0.5,1
+"E3: N=6 m=4 ds=2 k=2 theta=0.50 seed=1",SOS,"OK",0.5531677,0.0575626,301,E3,0.5,1
+"E3: N=6 m=4 ds=2 k=2 theta=0.50 seed=1",Sparse SOS,"OK",0.5210105,0.0484092,301,E3,0.5,1
+"E3: N=6 m=4 ds=2 k=2 theta=0.50 seed=1",DSOS red.,"OK",4.5903247,4.3283986,301,E3,0.5,1
+"E3: N=6 m=4 ds=2 k=2 theta=0.50 seed=1",DSOS full,"skipped (K=1287)",NaN,NaN,1287,E3,0.5,1
+"E3: N=6 m=4 ds=2 k=2 theta=0.50 seed=2",Level B,"OK",0.4823366,0.0071273,13,E3,0.5,2
+"E3: N=6 m=4 ds=2 k=2 theta=0.50 seed=2",SOS+LevelA,"OK",0.6632846,0.1169487,93,E3,0.5,2
+"E3: N=6 m=4 ds=2 k=2 theta=0.50 seed=2",SOS,"OK",0.4057869,0.026212,159,E3,0.5,2
+"E3: N=6 m=4 ds=2 k=2 theta=0.50 seed=2",Sparse SOS,"OK",0.3700157,0.0282514,159,E3,0.5,2
+"E3: N=6 m=4 ds=2 k=2 theta=0.50 seed=2",DSOS red.,"OK",1.0488464,0.8645409,159,E3,0.5,2
+"E3: N=6 m=4 ds=2 k=2 theta=0.50 seed=2",DSOS full,"skipped (K=1287)",NaN,NaN,1287,E3,0.5,2
+"E3: N=6 m=4 ds=2 k=2 theta=0.50 seed=3",Level B,"OK",0.4893457,0.0062894,13,E3,0.5,3
+"E3: N=6 m=4 ds=2 k=2 theta=0.50 seed=3",SOS+LevelA,"OK",0.3925041,0.0245086,55,E3,0.5,3
+"E3: N=6 m=4 ds=2 k=2 theta=0.50 seed=3",SOS,"OK",0.2895837,0.012665,85,E3,0.5,3
+"E3: N=6 m=4 ds=2 k=2 theta=0.50 seed=3",Sparse SOS,"OK",0.2993411,0.0169756,85,E3,0.5,3
+"E3: N=6 m=4 ds=2 k=2 theta=0.50 seed=3",DSOS red.,"OK",0.3261199,0.1573985,85,E3,0.5,3
+"E3: N=6 m=4 ds=2 k=2 theta=0.50 seed=3",DSOS full,"skipped (K=1287)",NaN,NaN,1287,E3,0.5,3
+"E3: N=6 m=4 ds=2 k=2 theta=1.00 seed=1",Level B,"OK",0.4843344,0.0082204,13,E3,1,1
+"E3: N=6 m=4 ds=2 k=2 theta=1.00 seed=1",SOS+LevelA,"OK",0.8109117,0.2577011,93,E3,1,1
+"E3: N=6 m=4 ds=2 k=2 theta=1.00 seed=1",SOS,"OK",0.3657321,0.0268815,159,E3,1,1
+"E3: N=6 m=4 ds=2 k=2 theta=1.00 seed=1",Sparse SOS,"OK",0.3677173,0.0265108,159,E3,1,1
+"E3: N=6 m=4 ds=2 k=2 theta=1.00 seed=1",DSOS red.,"no cert: Infeasible problem (<a href=""yalmip.github.io/debugginginfeasible"">learn to debug</a>) (MOSEK-LP/QP)",0.949832,0.7658613,159,E3,1,1
+"E3: N=6 m=4 ds=2 k=2 theta=1.00 seed=1",DSOS full,"skipped (K=1287)",NaN,NaN,1287,E3,1,1
+"E3: N=6 m=4 ds=2 k=2 theta=1.00 seed=2",Level B,"OK",0.4561539,0.0070289,13,E3,1,2
+"E3: N=6 m=4 ds=2 k=2 theta=1.00 seed=2",SOS+LevelA,"OK",0.8032811,0.2568698,93,E3,1,2
+"E3: N=6 m=4 ds=2 k=2 theta=1.00 seed=2",SOS,"OK",0.3607755,0.026372,159,E3,1,2
+"E3: N=6 m=4 ds=2 k=2 theta=1.00 seed=2",Sparse SOS,"OK",0.3640137,0.0248077,159,E3,1,2
+"E3: N=6 m=4 ds=2 k=2 theta=1.00 seed=2",DSOS red.,"no cert: Infeasible problem (<a href=""yalmip.github.io/debugginginfeasible"">learn to debug</a>) (MOSEK-LP/QP)",0.9159282,0.7367609,159,E3,1,2
+"E3: N=6 m=4 ds=2 k=2 theta=1.00 seed=2",DSOS full,"skipped (K=1287)",NaN,NaN,1287,E3,1,2
+"E3: N=6 m=4 ds=2 k=2 theta=1.00 seed=3",Level B,"OK",0.4703625,0.0088776,13,E3,1,3
+"E3: N=6 m=4 ds=2 k=2 theta=1.00 seed=3",SOS+LevelA,"OK",0.7754996,0.2301329,93,E3,1,3
+"E3: N=6 m=4 ds=2 k=2 theta=1.00 seed=3",SOS,"OK",0.3539164,0.0271819,159,E3,1,3
+"E3: N=6 m=4 ds=2 k=2 theta=1.00 seed=3",Sparse SOS,"OK",0.36625,0.0259223,159,E3,1,3
+"E3: N=6 m=4 ds=2 k=2 theta=1.00 seed=3",DSOS red.,"no cert: Infeasible problem (<a href=""yalmip.github.io/debugginginfeasible"">learn to debug</a>) (MOSEK-LP/QP)",0.9099529,0.7319481,159,E3,1,3
+"E3: N=6 m=4 ds=2 k=2 theta=1.00 seed=3",DSOS full,"skipped (K=1287)",NaN,NaN,1287,E3,1,3
