@@ -1,0 +1,68 @@
+Console output of the E2 experiment (k-fold products of binomial squares), as printed by the MATLAB benchmark
+(YALMIP 20250626, MOSEK, Intel i7 2.8 GHz, 16 GB).  This is the source of the tables `dsos-infeasible`, `dsos-time`
+and `levelb-k-scaling` of the numerical section.  The run was interrupted by hand during k = 7 after the Level B row
+(the remaining k = 7 methods are skipped by the guards in the current script).
+Columns: total time incl. YALMIP model building | MOSEK solver time | largest Gram block K.
+
+################ E2: PiAHI not in DSOS (products of binomial squares) ################
+
+=== E2: k=2 binomial squares, N=4 ===
+terms per factor: [3 3] | deg f = 8 | est. #monomials of f <= 9 | prod|B_l| = 9
+method       | status                             total(s)  solver(s) K      
+--------------------------------------------------------------------------------
+Level B      | OK                                 0.452     0.004     3      
+SOS+LevelA   | OK                                 0.259     0.002     9      
+SOS          | OK                                 0.293     0.002     19     
+Sparse SOS   | OK                                 0.262     0.003     19     
+DSOS red.    | no cert: Infeasible problem (learn to debug) (MOSEK-LP/QP) 0.161     0.009     19     
+DSOS full    | no cert: Infeasible problem (learn to debug) (MOSEK-LP/QP) 0.189     0.024     35     
+
+=== E2: k=3 binomial squares, N=6 ===
+terms per factor: [3 3 3] | deg f = 12 | est. #monomials of f <= 27 | prod|B_l| = 27
+method       | status                             total(s)  solver(s) K      
+--------------------------------------------------------------------------------
+Level B      | OK                                 0.690     0.007     3      
+SOS+LevelA   | OK                                 0.290     0.006     27     
+SOS          | OK                                 0.388     0.008     141    
+Sparse SOS   | OK                                 0.402     0.008     141    
+DSOS red.    | no cert: Infeasible problem (learn to debug) (MOSEK-LP/QP) 0.798     0.616     141    
+DSOS full    | skipped (K=462)                    NaN       NaN       462    
+
+=== E2: k=4 binomial squares, N=8 ===
+terms per factor: [3 3 3 3] | deg f = 16 | est. #monomials of f <= 81 | prod|B_l| = 81
+method       | status                             total(s)  solver(s) K      
+--------------------------------------------------------------------------------
+Level B      | OK                                 0.905     0.009     3      
+SOS+LevelA   | OK                                 0.586     0.067     81     
+SOS          | OK                                 2.193     0.212     1107   
+Sparse SOS   | OK                                 2.079     0.211     1107   
+DSOS red.    | no cert: Infeasible problem (learn to debug) (MOSEK-LP/QP) 352.011   349.395   1107   
+DSOS full    | skipped (K=6435)                   NaN       NaN       6435   
+
+=== E2: k=5 binomial squares, N=10 ===
+terms per factor: [3 3 3 3 3] | deg f = 20 | est. #monomials of f <= 243 | prod|B_l| = 243
+method       | status                             total(s)  solver(s) K      
+--------------------------------------------------------------------------------
+Level B      | OK                                 1.517     0.012     3      
+SOS+LevelA   | OK                                 10.318    4.464     243    
+SOS          | OK                                 383.963   36.269    8953   
+Sparse SOS   | OK                                 364.490   24.061    8953   
+DSOS red.    | skipped (K=8953)                   NaN       NaN       NaN    
+DSOS full    | skipped (K=92378)                  NaN       NaN       92378  
+
+=== E2: k=6 binomial squares, N=12 ===
+terms per factor: [3 3 3 3 3 3] | deg f = 24 | est. #monomials of f <= 729 | prod|B_l| = 729
+method       | status                             total(s)  solver(s) K      
+--------------------------------------------------------------------------------
+Level B      | OK                                 1.624     0.014     3      
+SOS+LevelA   | OK                                 426.604   152.719   729    
+SOS          | not attempted (guard / tryGeneric=0) NaN       NaN       NaN    
+Sparse SOS   | not attempted (guard / tryGeneric=0) NaN       NaN       NaN    
+DSOS red.    | not attempted (guard / tryGeneric=0) NaN       NaN       NaN    
+DSOS full    | not attempted (guard / tryGeneric=0) NaN       NaN       NaN    
+
+=== E2: k=7 binomial squares, N=14 ===
+terms per factor: [3 3 3 3 3 3 3] | deg f = 28 | est. #monomials of f <= 2.19e+03 | prod|B_l| = 2187
+method       | status                             total(s)  solver(s) K      
+--------------------------------------------------------------------------------
+Level B      | OK                                 1.613     0.014     3      
